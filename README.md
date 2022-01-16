@@ -1,16 +1,8 @@
 # navigator_2
+***
+**This is new flutter Naviagtion machanism** 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Read the following articals*
+- [Flutter community](https://medium.com/flutter-community/flutter-navigator-2-0-for-authentication-and-bootstrapping-part-1-introduction-d7b6dfdd0849)
+- [John Rayan](https://medium.com/flutter/learning-flutters-new-navigation-and-routing-system-7c9068155ade)
+- [Devanshi Garg](https://techblog.geekyants.com/navigator-20-navigation-and-routing-in-flutter)
