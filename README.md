@@ -13,3 +13,6 @@
 **Read the follwoing link for more information Route**
 - [Route open docs by flutter](https://docs.google.com/document/d/1Q0jx0l4-xymph9O6zLaOY4d_f7YFpNWX_eGbzYxr9wY/edit#heading=h.b3dp08v2w2u)
 - [url strategies](https://docs.flutter.dev/development/ui/navigation/url-strategies)
+
+**Single page scrollable page with query parameters**
+  - [Catgey Ulusoy](https://ulusoyca.medium.com/flutter-for-single-page-scrollable-websites-with-navigator-2-0-part-6-navigation-16b4f5a1981f)
